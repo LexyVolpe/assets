@@ -9,7 +9,7 @@
   "seller_fee_basis_points": 0,
   "properties": {
     "creators": [{"address": "6TrNe8WopYT4e8TARAsotL5nwviNjzFyrgroySkBYvGR", "share": 100}],
-    "files": [{"uri": "0.png", "type": "image/png"}]
+    "files": [{"uri": "https://raw.githubusercontent.com/LexyVolpe/assets/main/boredape.png", "type": "image/png"}]
 },
   "attributes": [
     {
