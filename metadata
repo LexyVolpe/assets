@@ -1,0 +1,45 @@
+{
+  "name": "Konrart Collection",
+  "description": "3 fan art di Konrart",
+  "image": "https://raw.githubusercontent.com/LexyVolpe/assets/main/boredape.png",
+  "dna": "59ed9aa1f8dba18e866485aeda070367f75a8c6f",
+  "edition": 1,
+  "date": 1657189130067,
+  "symbol": "KK",
+  "seller_fee_basis_points": 0,
+  "properties": {
+    "creators": [{"address": "6TrNe8WopYT4e8TARAsotL5nwviNjzFyrgroySkBYvGR", "share": 100}],
+    "files": [{"uri": "0.png", "type": "image/png"}]
+},
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Eyeball",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Eye color",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Iris",
+      "value": "Small"
+    },
+    {
+      "trait_type": "Shine",
+      "value": "Shapes"
+    },
+    {
+      "trait_type": "Bottom lid",
+      "value": "Low"
+    },
+    {
+      "trait_type": "Top lid",
+      "value": "Middle"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
