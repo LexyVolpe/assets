@@ -1,15 +1,15 @@
 {
-  "name": "Legendary Rexes 1/1 #0",
+  "name": "Rex Robot",
   "symbol": "ARC 1/1",
   "description": "",
-  "seller_fee_basis_points": 800,
+  "seller_fee_basis_points": 1000,
   "image": "https://raw.githubusercontent.com/LexyVolpe/assets/main/1.png",
   "external_url": "",
   "edition": 0,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "AOOO"
+      "value": "Robot"
     },
     {
       "trait_type": "Skin",
