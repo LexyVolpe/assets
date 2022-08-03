@@ -1,0 +1,78 @@
+{
+  "name": "Legendary Rexes 1/1 #0",
+  "symbol": "ARC 1/1",
+  "description": "",
+  "seller_fee_basis_points": 800,
+  "image": "0.png",
+  "external_url": "",
+  "edition": 0,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "AOOO"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "AOOO"
+    },
+    {
+      "trait_type": "Scales",
+      "value": "AOOO"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "AOOO"
+    },
+    {
+      "trait_type": "Gums",
+      "value": "AOOO"
+    },
+    {
+      "trait_type": "Standard",
+      "value": "AOOO"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AOOO"
+    },
+    {
+      "trait_type": "Eye Trait",
+      "value": "AOOO"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "AOOO"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "AOOO"
+    },
+    {
+      "trait_type": "Head",
+      "value": "AOOO"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "AOOO"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "0.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "6TrNe8WopYT4e8TARAsotL5nwviNjzFyrgroySkBYvGR",
+        "share": 1
+      },
+      {
+        "address": "6JNs56DJP1cDmzetaNqsfvCZYYqcjD8PvS7BHdcZCG8Q",
+        "share": 99
+      }
+    ]
+  }
+}
