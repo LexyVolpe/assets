@@ -1,5 +1,5 @@
 {
-  "name": "Rex World #0",
+  "name": "Tank",
   "symbol": "RW",
   "description": "The Rex World is the second collection of Annoyed Rex Club. All the pieces are periodically airdropped for free and every NFT can be considered a 1/1.",
   "seller_fee_basis_points": 1000,
@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Rex World",
-      "value": "Rex World"
+      "value": "Tank"
     }
   ],
   "properties": {
