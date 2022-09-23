@@ -1,0 +1,34 @@
+{
+  "name": "Rex World #0",
+  "symbol": "RW",
+  "description": "The Rex World is the second collection of Annoyed Rex Club. All the pieces are periodically airdropped for free and every NFT can be considered a 1/1.",
+  "seller_fee_basis_points": 1000,
+  "image": "https://raw.githubusercontent.com/LexyVolpe/assets/main/Rex%20World%20%230.png",
+  "external_url": "",
+  "edition": 0,
+  "attributes": [
+    {
+      "trait_type": "Rex World",
+      "value": "Rex World"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/LexyVolpe/assets/main/Rex%20World%20%230.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "7FZjG7eakGwzqtEL8ogymTrzZ4iwUHdaCauxJ8kqdEHL",
+        "share": 99
+      },
+      {
+        "address": "6TrNe8WopYT4e8TARAsotL5nwviNjzFyrgroySkBYvGR",
+        "share": 1
+      }
+    ]
+  }
+}
